@@ -1,0 +1,11 @@
+Using a precision recall curve to quantitatively compare the popularity based model and personalized collaborative filtering model
+Using three different metrics: Precision , Recall and F-1 Score
+
+Have a look at this representation : https://miro.medium.com/max/700/1*xOy6s_J9a7CGZIrv_cWr5A.png
+
+Have a look at this comparison curve : https://miro.medium.com/max/700/1*IeXtERBoZtbkxQJscZNX2w.png
+
+Observing the precision recall curve of both the models, item-similarity model performs better (as it as high recall and precision) upto certain point in the graph.
+
+
+
