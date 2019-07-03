@@ -19,7 +19,7 @@ pm.create(train_data, 'user_id', 'song')
 user_id = users[5]
 pm.recommend(user_id)
 
-# Popularity based Recommender System model class 
+# Popularity based Recommender System model class (This is the Black Box)
 popularity_recommender_py():    
     def __init__(self):        
     self.train_data = None        
